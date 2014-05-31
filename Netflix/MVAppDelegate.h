@@ -10,7 +10,9 @@
 #import <WebKit/WebKit.h>
 
 @interface MVAppDelegate : NSObject <NSApplicationDelegate>
-
+/**
+ * The webview which will point to http://www.netflix.com
+ */
 @property (assign) IBOutlet WebView *webView;
 
 @end
