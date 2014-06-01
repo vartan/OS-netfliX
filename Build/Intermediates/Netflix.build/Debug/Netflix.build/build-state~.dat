@@ -1,0 +1,328 @@
+TNetflix
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/PrecompiledHeaders/Netflix-Prefix-hdpinokispeyobbuoymylpnordzq/Netflix-Prefix.pch.pch Netflix/Netflix-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/main.o /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/MVAppDelegate.o /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/MVAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/MacOS/Netflix normal x86_64
+cCopyStringsFile /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/Resources/en.lproj/InfoPlist.strings Netflix/en.lproj/InfoPlist.strings
+cCompileXIB /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Base.lproj/MainMenu.xib
+cCompileAssetCatalog /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/Resources /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Images.xcassets
+cProcessInfoPlistFile /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/Info.plist /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Netflix-Info.plist
+cTouch /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000053488CB700000000000000AA
+t1397263543
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000053233078000000000000044C
+t1394815096
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005323307800000000000001DE
+t1394815096
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000053233079000000000000253C
+t1394815097
+s9532
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/WebKit.framework/WebKit
+c000000005323307A0000000000089038
+t1394815098
+s561208
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005323307E0000000000000ADC
+t1394815102
+s2780
+
+N/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/MVAppDelegate.o
+t1401606984
+s35460
+
+N/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/Netflix.LinkFileList
+c00000000538AD3470000000000000117
+t1401606983
+s279
+
+N/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/main.o
+t1401606984
+s3416
+
+N/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/assetcatalog_dependencies.txt
+t1401606985
+s388
+
+N/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/assetcatalog_generated_info.plist
+t1401606985
+s243
+
+N/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/PrecompiledHeaders/Netflix-Prefix-hdpinokispeyobbuoymylpnordzq/Netflix-Prefix.pch.pch
+t1401606984
+s124816
+
+N/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app
+t1401606983
+s102
+
+N/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/Info.plist
+t1401606985
+s1464
+
+N/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/MacOS/Netflix
+t1401606984
+s15224
+
+N/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/PkgInfo
+t1401606985
+s8
+
+N/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/Resources/Base.lproj/MainMenu.nib
+t1401606985
+s9826
+
+N/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1401606984
+s92
+
+N/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Base.lproj/MainMenu.xib
+c00000000538A3F02000000000000226F
+t1401569026
+s8815
+
+N/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Images.xcassets
+c00000000538AD2A40000000000000088
+t1401606820
+s136
+
+N/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/MVAppDelegate.m
+c00000000538A4BEF00000000000003CB
+t1401572335
+s971
+
+N/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Netflix-Info.plist
+c00000000538A4982000000000000041A
+t1401571714
+s1050
+
+N/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Netflix-Prefix.pch
+c000000005388E91E00000000000000A9
+t1401481502
+s169
+
+N/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/en.lproj/InfoPlist.strings
+c000000005388E91E000000000000002D
+t1401481502
+s45
+
+N/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/main.m
+c000000005388E91E00000000000000F3
+t1401481502
+s243
+
+CBuild AST from /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/MVAppDelegate.m
+r0
+
+CBuild AST from /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies16dfd4c70a3bb941^9c36dbc70a3bb941^---0#1#1#--18"Check dependencies36"2EBC7A72-8503-4F7E-8F67-1278B10F691A-
+
+CCompileAssetCatalog /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/Resources /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Images.xcassets
+s423299784.631220
+e423299785.318908
+r1
+xCompileAssetCatalog
+x/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/Resources
+x/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/Resources/AppIcon.icns
+o/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/Resources/Assets.car
+o/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"CompileAssetCatalog Build/Products/Debug/Netflix.app/Contents/Resources Netflix/Images.xcassets95"CompileAssetCatalog Build/Products/Debug/Netflix.app/Contents/Resources Netflix/Images.xcassets51a2a1c80a3bb941^6aa451c90a3bb941^-416"/* com.apple.actool.compilation-results *//Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/Resources/AppIcon.icns/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/Resources/Assets.car/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@83"file:///Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Images.xcassets/0000000000000000^883"CompileAssetCatalog Build/Products/Debug/Netflix.app/Contents/Resources Netflix/Images.xcassets    cd /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/assetcatalog_generated_info.plist --app-icon AppIcon --platform macosx --minimum-deployment-target 10.9 --target-device mac --compile /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/Resources /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Images.xcassets36"6DC3096A-E686-40E5-A6A9-D9A952D028C0-
+b96884EA1-0A96-4949-8598-1B5D17388C7C
+
+CCompileC Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/MVAppDelegate.o /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/MVAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423299784.210324
+e423299784.452034
+r1
+xCompileC
+xBuild/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/MVAppDelegate.o
+x/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/MVAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/MVAppDelegate.m
+d/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/MVAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/MVAppDelegate.m194"CompileC Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/MVAppDelegate.o Netflix/MVAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler81e835c80a3bb941^9db973c80a3bb941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/MVAppDelegate.m0000000000000000^3393"CompileC Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/MVAppDelegate.o Netflix/MVAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Vartan/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Netflix-generated-files.hmap -I/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Netflix-own-target-headers.hmap -I/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Netflix-all-target-headers.hmap -iquote /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Netflix-project-headers.hmap -I/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/DerivedSources/x86_64 -I/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/DerivedSources -F/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug -include /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/PrecompiledHeaders/Netflix-Prefix-hdpinokispeyobbuoymylpnordzq/Netflix-Prefix.pch -MMD -MT dependencies -MF /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/MVAppDelegate.d --serialize-diagnostics /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/MVAppDelegate.dia -c /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/MVAppDelegate.m -o /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/MVAppDelegate.o36"0267ABF3-E383-4EA0-9007-3AA28229AD68-
+b96884EA1-0A96-4949-8598-1B5D17388C7C
+
+CCompileC Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/main.o /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423299784.210118
+e423299784.323174
+r1
+xCompileC
+xBuild/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/main.o
+x/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/main.m176"CompileC Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/main.o Netflix/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf0da35c80a3bb941^b6bc52c80a3bb941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/main.m0000000000000000^3339"CompileC Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/main.o Netflix/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Vartan/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Netflix-generated-files.hmap -I/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Netflix-own-target-headers.hmap -I/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Netflix-all-target-headers.hmap -iquote /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Netflix-project-headers.hmap -I/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/DerivedSources/x86_64 -I/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/DerivedSources -F/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug -include /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/PrecompiledHeaders/Netflix-Prefix-hdpinokispeyobbuoymylpnordzq/Netflix-Prefix.pch -MMD -MT dependencies -MF /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/main.dia -c /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/main.m -o /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/main.o36"F5670372-BEC4-4F71-ABAC-6B0CE215EB84-
+b96884EA1-0A96-4949-8598-1B5D17388C7C
+
+CCompileXIB /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Base.lproj/MainMenu.xib
+s423299784.630942
+e423299785.559720
+r1
+xCompileXIB
+x/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Base.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Base.lproj/MainMenu.xib:QvC-M9-y7g: warning: Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations) [9]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compiling /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Base.lproj/MainMenu.xib42"CompileXIB Netflix/Base.lproj/MainMenu.xib7991a1c80a3bb941^e0498fc90a3bb941^-283"/* com.apple.ibtool.document.warnings *//Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Base.lproj/MainMenu.xib:QvC-M9-y7g: warning: Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations)1(21%IDEActivityLogMessage2@136"Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations)163"/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Base.lproj/MainMenu.xib:QvC-M9-y7g: warning: Content rectangle not entirely on screen with the menu bar423299785#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@90"file:///Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Base.lproj/MainMenu.xib0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#1#-19%DVTDocumentLocation4@90"file:///Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Base.lproj/MainMenu.xib0000000000000000^575"CompileXIB Netflix/Base.lproj/MainMenu.xib    cd /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.9 --output-format human-readable-text --compile /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/Resources/Base.lproj/MainMenu.nib /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Base.lproj/MainMenu.xib36"891B8048-5ECE-4689-9ADB-7C7CB6DC5057-
+b96884EA1-0A96-4949-8598-1B5D17388C7C
+
+CCopyStringsFile /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/Resources/en.lproj/InfoPlist.strings Netflix/en.lproj/InfoPlist.strings
+s423299784.630840
+e423299784.632074
+r1
+xCopyStringsFile
+x/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/Resources/en.lproj/InfoPlist.strings
+xNetflix/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy Netflix/en.lproj/InfoPlist.strings129"CopyStringsFile Build/Products/Debug/Netflix.app/Contents/Resources/en.lproj/InfoPlist.strings Netflix/en.lproj/InfoPlist.strings828ba1c80a3bb941^63d0a1c80a3bb941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/en.lproj/InfoPlist.strings0000000000000000^430"CopyStringsFile Build/Products/Debug/Netflix.app/Contents/Resources/en.lproj/InfoPlist.strings Netflix/en.lproj/InfoPlist.strings    cd /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/Resources/en.lproj -- Netflix/en.lproj/InfoPlist.strings36"552D983D-BE91-4D64-942B-AE8D22497E53-
+b96884EA1-0A96-4949-8598-1B5D17388C7C
+
+CLd /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/MacOS/Netflix normal x86_64
+s423299784.452680
+e423299784.630063
+r1
+xLd
+x/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/MacOS/Netflix
+xnormal
+xx86_64
+d/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/Netflix.LinkFileList
+d/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/main.o
+d/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/MVAppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/WebKit.framework/WebKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/JavaScriptCore.framework/JavaScriptCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOSurface.framework/IOSurface
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/DiskArbitration.framework/DiskArbitration
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/WebCore.framework/Versions/A/WebCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/CoreImage.framework/Versions/A/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/ScalableUserInterface.framework/Versions/A/ScalableUserInterface
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Link /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/MacOS/Netflix72"Ld Build/Products/Debug/Netflix.app/Contents/MacOS/Netflix normal x86_64d9ed73c80a3bb941^a54da1c80a3bb941^---0#0#1#--1095"Ld Build/Products/Debug/Netflix.app/Contents/MacOS/Netflix normal x86_64    cd /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug -F/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug -filelist /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/Netflix.LinkFileList -mmacosx-version-min=10.9 -fobjc-arc -fobjc-link-runtime -framework WebKit -framework Cocoa -Xlinker -dependency_info -Xlinker /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Objects-normal/x86_64/Netflix_dependency_info.dat -o /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/MacOS/Netflix36"45BDB23F-79ED-4CAA-A7B7-1A40231EE98B-
+b96884EA1-0A96-4949-8598-1B5D17388C7C
+
+CProcessInfoPlistFile /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/Info.plist /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Netflix-Info.plist
+s423299785.560192
+e423299785.562206
+r1
+xProcessInfoPlistFile
+x/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/Info.plist
+x/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Netflix-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Process /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Netflix-Info.plist100"ProcessInfoPlistFile Build/Products/Debug/Netflix.app/Contents/Info.plist Netflix/Netflix-Info.plista8718fc90a3bb941^faed8fc90a3bb941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Netflix-Info.plist0000000000000000^691"ProcessInfoPlistFile Build/Products/Debug/Netflix.app/Contents/Info.plist Netflix/Netflix-Info.plist    cd /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX    builtin-infoPlistUtility /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Netflix-Info.plist -genpkginfo /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/PkgInfo -expandbuildsettings -platform macosx -additionalcontentfile /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/assetcatalog_generated_info.plist -o /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app/Contents/Info.plist36"6F884B00-6E40-4100-A1F3-74C79DE58193-
+b96884EA1-0A96-4949-8598-1B5D17388C7C
+
+CProcessPCH /Users/Vartan/Library/Developer/Xcode/DerivedData/Netflix-gdjooeulxpjeddfrpekvnicnsvyc/Index/PrecompiledHeaders/Netflix-Prefix-dexkcxycrqdsccayxsohdtepmchs_ast/Netflix-Prefix.pch.pch Netflix/Netflix-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/PrecompiledHeaders/Netflix-Prefix-hdpinokispeyobbuoymylpnordzq/Netflix-Prefix.pch.pch Netflix/Netflix-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423299783.857085
+e423299784.209436
+r1
+xProcessPCH
+x/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/PrecompiledHeaders/Netflix-Prefix-hdpinokispeyobbuoymylpnordzq/Netflix-Prefix.pch.pch
+xNetflix/Netflix-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Netflix-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Netflix/Netflix-Prefix.pch213"ProcessPCH Build/Intermediates/PrecompiledHeaders/Netflix-Prefix-hdpinokispeyobbuoymylpnordzq/Netflix-Prefix.pch.pch Netflix/Netflix-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler7c7bdbc70a3bb941^849e35c80a3bb941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Netflix-Prefix.pch0000000000000000^3297"ProcessPCH Build/Intermediates/PrecompiledHeaders/Netflix-Prefix-hdpinokispeyobbuoymylpnordzq/Netflix-Prefix.pch.pch Netflix/Netflix-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Vartan/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Netflix-generated-files.hmap -I/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Netflix-own-target-headers.hmap -I/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Netflix-all-target-headers.hmap -iquote /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/Netflix-project-headers.hmap -I/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/DerivedSources/x86_64 -I/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/Netflix.build/Debug/Netflix.build/DerivedSources -F/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug --serialize-diagnostics /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/PrecompiledHeaders/Netflix-Prefix-hdpinokispeyobbuoymylpnordzq/Netflix-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/PrecompiledHeaders/Netflix-Prefix-hdpinokispeyobbuoymylpnordzq/Netflix-Prefix.pch.d -c /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Netflix/Netflix-Prefix.pch -o /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Intermediates/PrecompiledHeaders/Netflix-Prefix-hdpinokispeyobbuoymylpnordzq/Netflix-Prefix.pch.pch36"4BDCE429-4DD2-4F4D-84A0-46CDBEC80EE3-
+b96884EA1-0A96-4949-8598-1B5D17388C7C
+
+CTouch /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app
+s423299785.562918
+e423299785.566152
+r1
+xTouch
+x/Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Touch /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app38"Touch Build/Products/Debug/Netflix.app852390c90a3bb941^a6f090c90a3bb941^---0#0#1#--205"Touch Build/Products/Debug/Netflix.app    cd /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX    /usr/bin/touch -c /Users/Vartan/OneDrive/Programming/Cocoa/OS-netfliX/Build/Products/Debug/Netflix.app36"654F7968-E9DC-48EF-B67C-06C8C22BB884-
+b96884EA1-0A96-4949-8598-1B5D17388C7C
+
